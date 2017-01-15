@@ -7,7 +7,7 @@ cd joyhumin.github.io.git
 
 git status
 
-git touch new.md
+touch new.md
 
 git add new.md
 
