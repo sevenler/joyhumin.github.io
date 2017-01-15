@@ -11,7 +11,7 @@ touch new.md
 
 git add new.md
 
-git commit
+git commit -am 'edit new.md'
 
 git push origin master
 
